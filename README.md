@@ -5,5 +5,5 @@ Analysed the HR data in Power BI to create the insights to create the powerful a
 
 Below are the insights HR requested: -
 
-Work prefernces (WFH/WFO),
+Work preferences (WFH/WFO),
 Sick leave %
